@@ -1,5 +1,10 @@
 <h1 align="center">Hi there 👋 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinyRatP&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
-</p>
+<a href="https://github.com/rami3l">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyRatP&theme=buefy&show_icons=true&hide=contribs&line_height=24&count_private=true" />
+</a>
+
+<a href="https://github.com/rami3l?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyRatP&layout=compact&langs_count=6" />
+</a>
+
