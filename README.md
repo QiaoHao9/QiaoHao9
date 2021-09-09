@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋 </h3>
 
-这里有关于我的一切：
-
-- :writing_hand: [几篇文章](https://github.com/QiaoHao9/git-blog/issues)
 - :open_book: [阅读清单](https://yrfizm.notion.site/035ae3cb23844bd18d3fa14763f3fd8c)
 - :scroll: [Kindle Note](https://kindle.qiaohao.me/)
 
