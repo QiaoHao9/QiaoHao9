@@ -5,6 +5,7 @@
 
 # Applications
 - [Rime](https://rime.im)
+- [滴答清单](https://dida365.com)
 
 ## Windows
 - [Sumatra PDF](https://www.sumatrapdfreader.org)
