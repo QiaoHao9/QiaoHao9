@@ -9,6 +9,7 @@
 ## Windows
 - [Sumatra PDF](https://www.sumatrapdfreader.org)
 - [7-Zip](https://www.7-zip.org)
+- [Snipaste](https://www.snipaste.com)
 
 ## Slogan
 
